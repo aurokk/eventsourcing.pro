@@ -105,7 +105,7 @@ const Home: NextPage = () => {
       </div>
 
       <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px', }}>
-        <h3 style={{ maxWidth: '600px', }}>You can reach me at</h3>
+        <h3 style={{ maxWidth: '600px', }}>Reach the author</h3>
       </div>
 
       <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px', }}>
